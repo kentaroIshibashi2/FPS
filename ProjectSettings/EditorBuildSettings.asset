@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/K_Test/_scene/StartScene.unity
+    guid: 23da54f7df23faf4782289b17b73e72a
+  - enabled: 1
+    path: Assets/K_Test/_scene/Player_Test.unity
+    guid: d18f65cf048c4584c93f4821e4b8d3c8
+  - enabled: 1
+    path: Assets/K_Test/_scene/WinnerScene.unity
+    guid: e455c4f8c1c28ab4b8509018a615cc57
+  - enabled: 1
+    path: Assets/K_Test/_scene/GameOverScene.unity
+    guid: 80dca41deb8cc2d41888497f55ee9060
